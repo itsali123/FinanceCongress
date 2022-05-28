@@ -1,3 +1,7 @@
+# Jupyter
+.ob-jupyter
+fda.jupyter-python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
