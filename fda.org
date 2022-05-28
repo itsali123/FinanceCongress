@@ -2,7 +2,6 @@
 #+TITLE: Finance data aggregator
 #+LANGUAGE: en
 #+OPTIONS: toc:2
-#+SETUPFILE: resources/white.theme
 #+EXPORT_FILE_NAME: fda.html
 #+OPTIONS: toc:2
 #+PROPERTY: header-args :mkdirp yes :tangle yes :results silent :noweb yes
