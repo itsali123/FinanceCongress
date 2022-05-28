@@ -98,8 +98,8 @@ x = x-1
 
 #+RESULTS:
 :RESULTS:
-: output/MSFT-OGVS.png
-: output/AAPL-JWZB.png
-: output/AMZN-7OMP.png
+: output/MSFT-ASGJ.png
+: output/AAPL-8MF3.png
+: output/AMZN-T1EU.png
 [[file:./.ob-jupyter/73edfa74aec6f51051f5f188fde9ed121ea194eb.png]]
 :END:
